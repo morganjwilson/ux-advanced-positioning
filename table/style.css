@@ -1,1 +1,9 @@
 /* Add your CSS Below */
+table,
+th,
+td {
+  border: 1px solid green;
+}
+td {
+  text-align: left;
+}
